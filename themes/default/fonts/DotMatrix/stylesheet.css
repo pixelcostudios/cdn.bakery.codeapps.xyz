@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Dot Matrix';
+    src: url('DotMatrixBold.woff2') format('woff2'),
+        url('DotMatrixBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dot Matrix';
+    src: url('DotMatrix.woff2') format('woff2'),
+        url('DotMatrix.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
